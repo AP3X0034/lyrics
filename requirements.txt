@@ -2,3 +2,4 @@ tensorflow
 pandas
 notebook
 tqdm
+beautifulsoup4
