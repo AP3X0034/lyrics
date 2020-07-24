@@ -3,3 +3,4 @@ pandas
 notebook
 tqdm
 beautifulsoup4
+matplotlib
